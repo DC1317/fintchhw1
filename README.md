@@ -1,7 +1,7 @@
 # fintchhw1
 # Digital Banking: Ally Financial Inc.
 
-
+![alt text](Ally.jpg)
 
 ## Overview and Origin
 
