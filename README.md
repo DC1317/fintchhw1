@@ -47,13 +47,8 @@
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
-
-* Why do you think that offering this product or service would benefit the company?
-
-* What technologies would this additional product or service utilize?
-
-* Why are these technologies appropriate for your solution?
+* Ally improving its online platforms to be more technology handicapped friendly. By improving its interface or allowing more clear and user friendly nagivations.
+* Due to having no physical locations, only digital deposits or other ectronic methods are available to deposit into a checking, saving, or investment accounts, which leads to potential lose of clients who manuever cash. This could require a partnership with another financial insitute or have accessiblity to atms that can acesses these accounts. This would need impletations of online secuirty and technology to be able to preform these tasks. 
 
 ## Resources 
 
