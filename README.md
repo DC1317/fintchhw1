@@ -18,31 +18,29 @@
 
 * Specific financial problems that the comapny is trying to solve: Easily accessible online banking (auto, persaonl loans, credit cards, mortages, investiment and retirement plans)
 
-*Intended customers: money mindful customers, looking for diffrent innoviate ways to manage their money.
-*Market size: 11 Million customers
-*Solution their company offers that their competitors don't: They focus on putting customer service first, and maintaining competivate rates. They motto of do it right, implements they are focused on success and satifiscation of their business. They provided various financial information such as advice and education in various acpects of finance. 
+* Intended customers: money mindful customers, looking for diffrent innoviate ways to manage their money.
+* Market size: 11 Million customers
+* Solution their company offers that their competitors don't: They focus on putting customer service first, and maintaining competivate rates. They motto of do it right, implements they are focused on success and satifiscation of the communities they are serving. They provided various financial information such as advice and education in various acpects of finance. 
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
-
-* 
+* Technologies currently using: jQuery, PHP, Apache HTTP Serv, Bootsrap, Modernizr, Lodash, Moment.js, Akamai, Adobe Experience
 
 
 ## Landscape:
 
-* What domain of the financial industry is the company in?
+* Domain of financial industry: Digital Banking
 
-* What have been the major trends and innovations of this domain over the last 5-10 years?
+* Major trends and innovations of Digital Banking: easier accessiblitly to banking, tools like mobile banking apps, compared to tradtional banking lower/no fees, cytrocurrency, the abliltity to do many financial activites through mobile devices.
 
-* What are the other major companies in this domain?
+* Other major companies in digital banking: Monzo, Starling Bank, Tandem, Tide, N26, Atom
 
 
 ## Results
 
-* What has been the business impact of this company so far?
+* Business impact: Able to provide over millions of people financial solutions at affordable or competetive rates
 
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+* Core metrics that companies in this domain use to measure success: Overall usage and satificiation of its customers, and renvue. Allly Financial has doing well as it has reached over 11 million customers as well had been able to give back to the communities and its employees.  
 
-* How is your company performing relative to competitors in the same domain?
+* Performance compared to others: relatively well, as it has been able to branch off from just auto and into various sectors such as investment, personal lending, mortages, and retiremnet plans. 
 
 
 ## Recommendations
@@ -54,3 +52,9 @@
 * What technologies would this additional product or service utilize?
 
 * Why are these technologies appropriate for your solution?
+
+## Resources 
+
+* https://stackshare.io/ally/ally-com
+* https://www.ally.com/about
+* https://www.insiderintelligence.com/insights/fintech-companies-startups/
